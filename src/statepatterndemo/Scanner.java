@@ -1,6 +1,5 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Scanner Object holds the current state, and provides setter/getter methods for changing state
  */
 
 package statepatterndemo;
